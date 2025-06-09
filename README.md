@@ -1,6 +1,6 @@
-## 👨‍💻 About Me
+## 👨‍💻 About Me ( Raghav Gupta form BCA in Bareilly College Bareilly)
 
-Hi, I'm Raghav Gupta from Shahjahanpur, Uttar Pradesh. I'm passionate about programming and front-end development. I have experience in C Language, Data Structures, SQL, HTML, CSS, JavaScript, and more.
+Hii, I'm Raghav Gupta from ShahjahanpurUttar Pradesh. I'm passionate about programming and front-end development. I have experience in C Language, Data Structures, SQL, HTML, CSS, JavaScript, and more.
 
 ## 🌐 Connect With Me
 
