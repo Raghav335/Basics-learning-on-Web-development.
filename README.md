@@ -1,4 +1,14 @@
-# Basics-learning-on-Web-development.
+## 👨‍💻 About Me
+
+Hi, I'm Raghav Gupta from Shahjahanpur, Uttar Pradesh. I'm passionate about programming and front-end development. I have experience in C Language, Data Structures, SQL, HTML, CSS, JavaScript, and more.
+
+## 🌐 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/raghav-gupta-8a9152328?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 💻 [GitHub](https://github.com/Raghav335)
+- 📱 [WhatsApp](https://wa.me/+918382074540)
+
+---# Basics-learning-on-Web-development.
 # 🚀  Web Project
 
 This is a simple project built using **HTML**, **CSS**, and **JavaScript**.  
@@ -22,10 +32,6 @@ You can view the live preview of the project here:
 ├── index.html
 ├── style.css
 └── script.js
-
-📞 Connect with Me
-
-
 
 Feel free to fork this repository, raise issues or suggestions, and connect with me.
 
